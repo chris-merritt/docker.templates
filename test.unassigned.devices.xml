@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/dlandon/unassigned.devices/master/unassigned.devices.plg</PluginURL>
-<PluginAuthor>dlandon</PluginAuthor>
+<PluginURL>https://raw.githubusercontent.com/chris-merritt/test.unassigned.devices/master/test.unassigned.devices.plg</PluginURL>
+<PluginAuthor>chris-merritt</PluginAuthor>
 <Beta>False</Beta>
 <MinVer>6.11</MinVer>
 <Category>Tools:System</Category>
